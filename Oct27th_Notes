@@ -1,0 +1,11 @@
+# Chapter 1(good to know):
+Suggested ways to devleop packages: devtools, roxygen, testthat and usethis
+- Meta-techniques: 
+  1. Reading Source Code: Will help you write better code, help develop your opinions about good and bad code
+  2. Adopting a Scientific Mindset: useful when you don't know how something works
+
+Chapter 2: Names and Values
+
+Chapter 3: Vectors
+Chapter 4: Subsetting
+
